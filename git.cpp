@@ -5,8 +5,12 @@
 
 int main()
 {
+<<<<<<< HEAD
     std::cout << "Hello Daria Vasilevna!\n";
     std::cout << "Vash predmet ochen' interesnii!\n";
+=======
+    std::cout << "Goodbye MDK!\n";
+>>>>>>> 63dcc5828aba2165cc218501c1fde69613c25594
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
